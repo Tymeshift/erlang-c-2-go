@@ -1,10 +1,12 @@
-package erlang_c_2_go
+package erlangc2go
 
 import (
 	"fmt"
+
 	"rogchap.com/v8go"
 )
 
+// GetNumberOfAgents hardcoded JS function to calculate number of agents based on the erlang-c function
 func GetNumberOfAgents(
 	volume int,
 	intervalLength int,
