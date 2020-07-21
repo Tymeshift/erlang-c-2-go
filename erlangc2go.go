@@ -1,4 +1,4 @@
-package erlangc2go
+package erlangc
 
 import (
 	"fmt"

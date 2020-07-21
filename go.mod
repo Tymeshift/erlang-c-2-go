@@ -1,4 +1,4 @@
-module erlangc2go
+module erlangc
 
 go 1.14
 
