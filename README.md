@@ -1,4 +1,4 @@
-# erlang-c-2-go
+# erlang-c-js-2-go
 
 ## Installation
 ``` go get github.com/Tymeshift/erlang-c-go```
