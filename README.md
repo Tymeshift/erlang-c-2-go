@@ -1,14 +1,14 @@
 # erlang-c-js-2-go
 
 ## Installation
-``` go get github.com/Tymeshift/erlang-c-go```
+``` go get github.com/Tymeshift/erlang-c-js-2-go```
 
 ## Example usage
 ``` go
 package main
 
 import (
-	"github.com/Tymeshift/erlang-c-go"
+	"github.com/Tymeshift/erlang-c-js-2-go"
 	"fmt"
 )
 
