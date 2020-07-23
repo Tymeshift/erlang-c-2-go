@@ -1,4 +1,4 @@
-module github.com/Tymeshift/erlang-c-go
+module github.com/Tymeshift/erlang-c-js-2-go
 
 go 1.14
 
